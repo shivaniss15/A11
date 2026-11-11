@@ -1,1 +1,1 @@
-Image assets for the Town Hall pages are referenced from the existing A09 project while the original image files are being copied into this assignment repository.
+The Town Hall image assets are currently loaded from the existing A09 repository so the A11 pages can display while you finish copying the original image files into this folder. For the assignment's required folder structure, place the supplied JPG, GIF, and ICO files here: brancaccio75.jpg, chua75.jpg, sampson75.jpg, sampson_dinosaur.jpg, sorkin75.jpg, town_hall_logo.gif, and favicon.ico.
